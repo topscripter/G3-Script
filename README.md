@@ -3,5 +3,7 @@
 Their Discord —> [Click Me!](https://discord.gg/g4xnduh5)
 
 ```lua
+-- Key: g3
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/topscripter/G3-Script/main/script.lua"))();
 ```
